@@ -1,0 +1,7 @@
+.idea
+venv
+Docker-workshop.iml
+debug-task-container/Dockerfile
+debug-task-container/main.py
+debug-task-container/requirements.txt
+
